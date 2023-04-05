@@ -1,5 +1,4 @@
 # kkbox to Spotify Playlist convertor
-__Author: Kaco__
 ## Description
 It scrape playlist from KKBOX, a music streaming platform, and put the songs into a new Spotify playlist.
 It is written in python using the BeautifulSoup library, Spotipy library and Spotify API.
